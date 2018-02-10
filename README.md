@@ -7,10 +7,10 @@ for all pairs of prime numbers (p, q) that fit within the graph display.
 The image, [RSAGraph.png][PNG], in this directory is a screenshot of the
 graphical output by the Java program.
 
-I happened to find the screenshot of this graphical plot and its code
-while browsing my old screenshots on my system. The code and the
-screenshot were created in the year 2007. About 11 years later, I
-preserved these artifacts as a Git repo primarily for nostalgic reasons.
+I happened to find this 11 year old screenshot and the code while
+browsing my old files. The code and the screenshot were created in the
+year 2007. I have preserved these artifacts as a Git repo primarily for
+nostalgic reasons.
 
 [JAVA]: RSAGraph.java
 [PNG]: RSAGraph.png
