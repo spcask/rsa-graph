@@ -41,7 +41,7 @@ appear to have slopes of about 1/2, 1/3, and 1/5, respectively.
 
 The first streak of blue dots consists of points (p + q, pq) for primes
 q such that p = 2. This is a streak of points (2 + q, 2q) for primes q.
-Thus the approximate slope of this streak is 2 + q / 2q which is
+Thus the approximate slope of this streak is (2 + q) / 2q which is
 approximately equal to 1/2 for large values of q.
 
 Similarly the second streak of blue dots consists of points (3 + q, 3q)
